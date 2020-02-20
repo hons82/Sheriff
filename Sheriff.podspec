@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "Sheriff"
-  s.version      = "0.1"
+  s.version      = "0.3.3"
   s.summary      = "Badgify anything."
   s.homepage     = "https://github.com/gemr/Sheriff"
   s.license      = "MIT"
